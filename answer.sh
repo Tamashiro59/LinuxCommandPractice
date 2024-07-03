@@ -13,6 +13,7 @@ $ cd LinuxCommandPractice
 # 5. カレントディレクトリのパスを表示してください。
 $ pwd
 # 6. 次に、下の画像のようにGithubで`LinuxCommandPractice`という名前のリポジトリを作成してください。
+
 # 以下のGithubリポジトリ作成時の初期コマンドは書き換えなくてOKです。7に進んでください。
 # ここからGithubリポジトリ作成時の初期コマンド
 $ echo "# LinuxCommandPractice" >> README.md
@@ -71,3 +72,4 @@ $ vi practice_file1.txt
 # :wq
 
 # 21. `practice_file1.txt`に書き込んだ内容を出力してください。
+$ cat practice_file1.txt
